@@ -1,5 +1,9 @@
 ﻿@import url('open-iconic/font/css/open-iconic-bootstrap.min.css');
 
+dd {
+    float: left;
+}
+
 html, body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -59,6 +63,26 @@ a, .btn-link {
     color: white;
 }
 
-    .blazor-error-boundary::after {
-        content: "An error has occurred."
-    }
+.blazor-error-boundary::after {
+    content: "An error has occurred."
+}
+
+dt {
+    float: left;
+    clear: left;
+    width: 14em;
+    font-size: 0.7em;
+    font-weight: bold;
+}
+
+dd {
+    float: left;
+    font-size: 0.6em;
+}
+
+.form-text {
+    margin-top: .25rem;
+    font-size: .875em;
+    color: #6c757d;
+    display: block;
+}
