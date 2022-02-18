@@ -1,7 +1,7 @@
 **Test-Blazor-WebAssembly-StatisticsAndML-DotNet7**
 is a test Blazor WASM (WebAssembly) with .NET Core 3.x, .NET 6 & .NET 7 implemintations, that showcases howto perform statistical analysis locally inside the browser.
 
-**Live Demo Web Site (Static Website Host - Azure Static Websites - .NET Core 3.x):** https://statisticsblazordotnetcore3.azureedge.net/  
+**Live Demo Web Site (Static Website Host - Azure Static Websites - .NET Core 3.x):** https://statisticsblazordotnet3.azureedge.net/  
 **Live Demo Web Site (Static Website Host - Azure Static Websites - .NET 5):** https://statisticsblazordotnet6.azureedge.net/  
 **Live Demo Web Site (Static Website Host - Azure Static Websites - .NET 7):** https://statisticsblazordotnet7.azureedge.net/
 
